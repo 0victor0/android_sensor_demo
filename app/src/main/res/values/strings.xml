@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">All_sensors</string>
+    <string name="action_settings">Settings</string>
+    <string name="accel_string">Accelerometer</string>
+</resources>
